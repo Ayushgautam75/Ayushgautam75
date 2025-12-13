@@ -12,11 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- ✅ Replace the LinkedIn handle below with your exact profile slug if different -->
-  <a href="https://www.linkedin.com/in/ayush-gautam-359067323" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ayush-gautam-359067323" target="_blank" rel="noopener noreferrer">
   🔗 LinkedIn – Ayush Gautam
 </a>
 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
   </a>
   <a href="https://www.kaggle.com/ayushkumargautam" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
