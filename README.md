@@ -113,9 +113,12 @@ Currently exploring advanced AI concepts like:
 
 ---
 
-# 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushgautam75/Ayushgautam75/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 ---
