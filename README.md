@@ -103,12 +103,13 @@ Currently exploring advanced AI concepts like:
 
 # 📈 GitHub Stats
 
-![Ayush GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush&theme=tokyonight)
+![Ayush GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushgautam75&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam75&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgautam75&layout=compact&theme=tokyonight)
 
 ---
 
