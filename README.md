@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ayush Kumar
+# 👋 Hey, I'm Ayush Gautam
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Generative+AI+Developer;Building+AI+Powered+Solutions" />
 
@@ -160,6 +160,7 @@ I love working on complete AI pipelines:
 
 ### ⭐ "Code. Learn. Build. Repeat."
 
-### Made with ❤️ by Ayush Kumar
+### Made with ❤️ by Ayush Gautam
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushgautam75&color=blue)
